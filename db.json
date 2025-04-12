@@ -1,0 +1,75 @@
+{
+  "profesores": [
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "subjects": [
+        {
+          "id": 3,
+          "name": "Chemistry"
+        },
+        {
+          "id": 4,
+          "name": "Biology"
+        },
+        {
+          "id": 5,
+          "name": "fushimania"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Matt Doe",
+      "email": "Matt_deep@example.com",
+      "subjects": [
+        {
+          "id": 1,
+          "name": "gymnastic"
+        },
+        {
+          "id": 2,
+          "name": "Physics"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Franz Kafka",
+      "email": "franz@example.com",
+      "subjects": [
+        {
+          "name": "dont"
+        },
+        {
+          "name": "know"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "id": "1",
+      "name": "Blondie",
+      "average": 8.5
+    },
+    {
+      "id": "2",
+      "name": "Iggy pop",
+      "average": 7.2
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "content": "Great post!"
+    },
+    {
+      "id": "2",
+      "postId": 2,
+      "content": "Thanks for sharing!"
+    }
+  ]
+}
